@@ -10,6 +10,7 @@ The following Terraform resource configurations are included in this repository:
 - **Virtual Network (`VNET`)**
 - **Subnet (`SUBNET`)** (Uses `dynamic` blocks)
 - **Meta-arguments** (`for_each`, `depends_on`)
+- **Virtual Machine
 
 ## 🛠 Features Implemented
 
